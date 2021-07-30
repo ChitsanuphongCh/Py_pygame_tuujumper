@@ -1,1 +1,1 @@
-# Py_pygame_tuujumper
+Python pgzero pygame 2D tank jumpper mini project in university.
